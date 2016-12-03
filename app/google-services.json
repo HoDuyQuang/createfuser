@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "502875907273",
+    "firebase_url": "https://usertest-78862.firebaseio.com",
+    "project_id": "usertest-78862",
+    "storage_bucket": "usertest-78862.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502875907273:android:76a124c92862dec8",
+        "android_client_info": {
+          "package_name": "com.hdq.createfuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502875907273-967fqoqauq094bmrk6i9a6fjko4ssdht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3U3xQidQgU8cJ0mG8SCnkJ6AblHgb3wU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
